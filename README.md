@@ -19,14 +19,16 @@ Textbooks:
 
 ## Labs
 
-All the lab write ups are posted on my [blog](https://thomasonzhao.cn/tags/CSAPP-Labs/). You may also found it in `Writeup.md` in each corresponding directory. 
+All the lab write ups are posted on my [blog](https://thomasonzhao.cn/tags/CSAPP-Labs/). You may also found it in `Writeup.md` in each corresponding directory or just click the link below. 
 
-datalab: finished by May. 19 2022
+[datalab](datalab/Writeup.md): finished by May. 19 2022
 
-bomblab: finished by May. 27 2022
+[bomblab](bomblab/Writeup.md): finished by May. 27 2022
 
-attacklab: finished by Jun. 16 2022
+[attacklab](attacklab/Writeup.md): finished by Jun. 16 2022
 
-cachelab: finished by Sep. 6 2022
+[cachelab](cachelab/Writeup.md): finished by Sep. 6 2022
 
-shlab: finished by Dec. 26 2022
+[shlab](shlab/Writeup.md): finished by Dec. 26 2022
+
+[malloclab](malloclab/Writeup.md): finished by Jan. 3 2022
